@@ -21,12 +21,16 @@ Olá!👋
 🔗 Conecte-se comigo no LinkedIn para networking profissional</p> 
 <a href="https://www.linkedin.com/in/samara-perini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<p align='center'>
+<br><p align='center'>
 Obrigado por visitar o meu perfil! Estou animada para compartilhar meus projetos e contribuir para a comunidade de código aberto. Vamos aprender e crescer juntos!
 </p>
 
-![Python](https://img.shields.io/badge/-Python-green)]
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+<div style="display: inline_block"><br>
+  <img align="center" alt="sasajv" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="sasare" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="sasaht" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="sasacss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="sasapy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
 
