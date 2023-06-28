@@ -12,7 +12,7 @@ Olá!👋
 🌍 Sou apaixonada por jogos, series, filmes e animais. Às vezes os incorporo em meus projetos.<br>
 📚 No meu tempo livre, gosto de ler artigos, ouvir podcasts e conhecer novas tecnologias.<br>
 🎧 Adoro ouvir música durante a codificação, pois isso me mantém motivada e focada.<br>
-</p><br>
+<br>
 <p>
 📫 Sinta-se à vontade para entrar em contato comigo por email para discutir oportunidades de colaboração ou apenas para dizer olá!
 </p><a href = "mailto:samaraperini918@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
