@@ -1,6 +1,6 @@
 Olá!👋
-Sou a Samara, uma apaixonada por tecnologia com forte interesse em automação de processos(RPA). Bem-vindo ao meu perfil do GitHub!<br>
-###Sobre mim<br>
+<br>Sou a Samara, uma apaixonada por tecnologia com forte interesse em automação de processos(RPA). Bem-vindo ao meu perfil do GitHub!
+<br>###Sobre mim<br>
 
 🎓 Cursando análise e desenvolvimento de sistemas na UNINTER.<br>
 💼 Atualmente trabalhando como estagiária de desenvolvimento no setor de RPA.<br>
