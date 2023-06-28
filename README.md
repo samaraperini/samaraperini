@@ -1,5 +1,5 @@
 Olá!👋
-<p>Sou a Samara, uma apaixonada por tecnologia com forte interesse em automação de processos(RPA). Bem-vindo ao meu perfil do GitHub!</p>p>
+<p>Sou a Samara, uma apaixonada por tecnologia com forte interesse em automação de processos(RPA). Bem-vindo ao meu perfil do GitHub!</p>
 
 <p>###Sobre mim</p>
 
@@ -12,15 +12,15 @@ Olá!👋
 🌍 Sou apaixonada por jogos, series, filmes e animais. Às vezes os incorporo em meus projetos.<br>
 📚 No meu tempo livre, gosto de ler artigos, ouvir podcasts e conhecer novas tecnologias.<br>
 🎧 Adoro ouvir música durante a codificação, pois isso me mantém motivada e focada.<br>
-</p>
+</p><br>
 <p>
 📫 Sinta-se à vontade para entrar em contato comigo por email para discutir oportunidades de colaboração ou apenas para dizer olá!
-<br><a href = "mailto:samaraperini918@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</p>
+</p><br><a href = "mailto:samaraperini918@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 <p>
-🔗 Conecte-se comigo no LinkedIn para networking profissional 
+🔗 Conecte-se comigo no LinkedIn para networking profissional</p> 
 <br><a href="[https://www.linkedin.com/in/samara-perini/]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</p>
+
 <p align='center'>
 Obrigado por visitar o meu perfil! Estou animada para compartilhar meus projetos e contribuir para a comunidade de código aberto. Vamos aprender e crescer juntos!
 </p>
