@@ -1,4 +1,4 @@
-<tile>Olá! 👋</title>
+Olá! 👋
 <p>Sou a Samara, uma apaixonada por tecnologia com forte interesse em automação de processos(RPA). Bem-vindo ao meu perfil do GitHub!</p>
 <p>Sobre mim</p>
 <p>
@@ -22,9 +22,9 @@
 <p>
 Obrigado por visitar o meu perfil! Estou animada para compartilhar meus projetos e contribuir para a comunidade de código aberto. Vamos aprender e crescer juntos!
 </p>
-<div>
+
 ![Python](https://img.shields.io/badge/-Python-green)]
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-</div>
+
 
