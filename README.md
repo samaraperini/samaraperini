@@ -15,11 +15,11 @@ Olá!👋
 </p><br>
 <p>
 📫 Sinta-se à vontade para entrar em contato comigo por email para discutir oportunidades de colaboração ou apenas para dizer olá!
-</p><br><a href = "mailto:samaraperini918@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p><a href = "mailto:samaraperini918@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <p>
 🔗 Conecte-se comigo no LinkedIn para networking profissional</p> 
-<br><a href="[https://www.linkedin.com/in/samara-perini/]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="[https://www.linkedin.com/in/samara-perini/]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <p align='center'>
 Obrigado por visitar o meu perfil! Estou animada para compartilhar meus projetos e contribuir para a comunidade de código aberto. Vamos aprender e crescer juntos!
