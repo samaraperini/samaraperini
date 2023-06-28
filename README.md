@@ -12,7 +12,6 @@ Sobre mim
 📚 No meu tempo livre, gosto de ler artigos, ouvir podcasts e conhecer novas tecnologias.
 🎧 Adoro ouvir música durante a codificação, pois isso me mantém motivada e focada.
 
-
 📫 Sinta-se à vontade para entrar em contato comigo por email (samaraperin819@gmail.com) para discutir oportunidades de colaboração ou apenas para dizer olá!
 🔗 Conecte-se comigo no LinkedIn para networking profissional (https://www.linkedin.com/in/samara-perini/)
 
