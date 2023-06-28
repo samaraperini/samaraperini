@@ -19,7 +19,7 @@ Olá!👋
 
 <p>
 🔗 Conecte-se comigo no LinkedIn para networking profissional</p> 
-<a href="[https://www.linkedin.com/in/samara-perini/]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/samara-perini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <p align='center'>
 Obrigado por visitar o meu perfil! Estou animada para compartilhar meus projetos e contribuir para a comunidade de código aberto. Vamos aprender e crescer juntos!
