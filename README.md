@@ -15,7 +15,7 @@ Olá!👋
 <br>
 <p>
 📫 Sinta-se à vontade para entrar em contato comigo por email para discutir oportunidades de colaboração ou apenas para dizer olá!
-</p><a href = "mailto:samaraperini918@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p><a href = "mailto:samaraperini819@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <p>
 🔗 Conecte-se comigo no LinkedIn para networking profissional</p> 
