@@ -13,7 +13,7 @@ Sobre mim
 🎧 Adoro ouvir música durante a codificação, pois isso me mantém motivada e focada.
 
 
-📫 Sinta-se à vontade para entrar em contato comigo por emai (samaraperin819@gmail.com) para discutir oportunidades de colaboração ou apenas para dizer olá!
+📫 Sinta-se à vontade para entrar em contato comigo por email (samaraperin819@gmail.com) para discutir oportunidades de colaboração ou apenas para dizer olá!
 🔗 Conecte-se comigo no LinkedIn para networking profissional (https://www.linkedin.com/in/samara-perini/)
 
 Obrigado por visitar o meu perfil! Estou animada para compartilhar meus projetos e contribuir para a comunidade de código aberto. Vamos aprender e crescer juntos!
