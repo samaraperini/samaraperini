@@ -26,7 +26,7 @@ Obrigado por visitar o meu perfil! Estou animada para compartilhar meus projetos
 </p>
 
 <div style="display: inline_block"><br>
-   <img align="center" alt="sasapy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="sasapy" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 
