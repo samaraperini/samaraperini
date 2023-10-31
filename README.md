@@ -4,7 +4,7 @@ Olá!👋
 <br><p>###Sobre mim</p>
 
 🎓 Cursando análise e desenvolvimento de sistemas na UNINTER.<br>
-💼 Atualmente trabalhando como estagiária de desenvolvimento no setor de RPA.<br>
+💼 Atualmente trabalhando como assistente de dados no setor de RPA.<br>
 💡 Estou entusiasmada com TI e constantemente buscando novas oportunidades para expandir meus conhecimentos e habilidades.<br>
 💻 Meu idioma de codificação principal é python, mas também tenho projetos em HTML e CSS.<br>
 🌱 Acredito no aprendizado contínuo e na atualização com as últimas tecnologias e tendências do setor.<br>
